@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 鄉黨圖考
-#+DATE: 2018-03-28 13:09:49.812049
+#+DATE: 2018-03-28 13:09:49.962315
 #+PROPERTY: ID KR1h0067
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1h0067_WYG_000-1a>¶
 欽定四庳全書　　　　　經部八¶
